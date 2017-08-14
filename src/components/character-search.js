@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import {connect} from 'react-redux';
 import Spinner from 'react-spinkit';
 import {searchCharacters} from '../actions';
